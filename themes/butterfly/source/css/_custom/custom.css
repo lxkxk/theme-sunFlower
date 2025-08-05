@@ -1,0 +1,19 @@
+.recent-post-items {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .animate__zoomIn {
+    width: 49%;
+  }
+}
+
+.recent-post-info {
+  padding: 0 30px !important;
+}
+.post_cover {
+  height: 200px !important;
+}
+.article-meta-wrap {
+  margin: 0 0 5px !important;
+}
